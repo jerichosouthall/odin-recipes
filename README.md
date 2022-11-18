@@ -23,4 +23,4 @@ Using text in HTML (paragraphs, headers).</li>
 
 <h2>Reflections</h2
 
-<p>My commit messages could have been organized better, especially at the beginning. I need to get more comfortable amending commits. Overall, aside from the commits, I completed the project easily and completely. Looking ahead to what's next!</p>  
+<p>My commit messages could have been organized better, especially at the beginning. I need to get more comfortable amending commits. Overall, aside from some discomfort with the initial commits, I completed the project easily and completely. Looking ahead to what's next!</p>  
