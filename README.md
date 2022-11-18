@@ -1,15 +1,17 @@
 # odin-recipes
 
+<p>Project can be seen at https://jerichosouthall.github.io/odin-recipes/.</p>
+
 <h2>What is this project about?</h2>
 
-<p>"Recipes" is the project at the end of The Odin Project's HTML foundations curriculum.</p>
+<p>"Recipes" is the project at the end of The Odin Project's <em>HTML Foundations</em> curriculum.</p>
 
 <p>In this project I showcased:
 
 <ul> 
 
 <li>Setting up an HTML document using the HTML boilerplate.
-Using text in HTML (paragraphs, headers).</li>
+Using text in HTML in the form of paragraphs and headers.</li>
 
 <li>Using tags and elements.</li>
 
