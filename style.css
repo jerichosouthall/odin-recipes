@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+    background-color: beige;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    font-size: 30px;
+}
