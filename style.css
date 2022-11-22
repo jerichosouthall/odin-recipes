@@ -4,6 +4,7 @@ h1 {
     background-color: gray;
     margin-left: 33%;
     margin-right: 33%;
+    margin-bottom: 10%;
 }
 
 h2 {
@@ -22,7 +23,6 @@ p {
 
 ul,
 ol {
-    margin-left: 4%;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 
@@ -31,4 +31,36 @@ ol {
 img {
     display: block;
     margin: auto;
+}
+
+.links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+#link {
+    display: block;
+    margin-inline: 15%;
+}
+
+.homeimg {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+#hmp {
+    display: block;
+    margin: 5%;
+}
+
+#mac {
+    display: block;
+    margin: 5%;
+}
+
+#proll {
+    display:block;
+    margin: 5%;
 }
